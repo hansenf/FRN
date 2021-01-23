@@ -1,0 +1,12 @@
+{
+  "name": "FirstRN",
+  "displayName": "FirstRN",
+  "expo": {
+    "name": "FirstRN",
+    "slug": "FirstRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
